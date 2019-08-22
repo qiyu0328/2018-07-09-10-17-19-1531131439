@@ -1,4 +1,5 @@
 package practice07;
 
-public class Teacher {
+public class Teacher   {
+
 }
